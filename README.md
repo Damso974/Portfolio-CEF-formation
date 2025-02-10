@@ -19,7 +19,7 @@ VSCode + Node.js
  
  Appuyer sur la touche "Entrer" pour créer votre clone local.
 
-##Installer npm
+# Installer npm
 
 Pour pouvoir lancer le projet, vous devez installer npm dans le fichier, voici comment faire :
 
