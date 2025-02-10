@@ -16,7 +16,7 @@ VSCode + Node.js
  
  Ouvrez un terminal dans ce nouveau dossier et taper "git clone" suivi du lien ci-dessous :
  
- (https://github.com/Damso974/Portfolio-CEF-formation.git)
+ https://github.com/Damso974/Portfolio-CEF-formation.git
  
  Appuyer sur la touche "Entrer" pour créer votre clone local.
 
