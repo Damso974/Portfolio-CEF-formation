@@ -4,6 +4,8 @@ Ceci est mon premier Portfolio effectuer dans le cadre de ma formation de Dével
 # IDE utiliser pour ce projet
 VSCode + Node.js
 
+# Installation 
+
 ##Etape 1  : Cloner le projet
  Ouvrez un nouveau projet dans VScode 
  Créer un nouveau dossier ou sera créer le code 
