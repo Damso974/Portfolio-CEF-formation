@@ -4,8 +4,9 @@ Ceci est mon premier Portfolio effectuer dans le cadre de ma formation de Dével
 # IDE utiliser pour ce projet
 VSCode + Node.js
 
-Cloner le projet
-Lien du clone : (https://github.com/Kevin-642/Portfolio-1.git)
+#Etape 1  : Cloner le projet
+
+Lien du clone : ((https://github.com/Damso974/Portfolio-CEF-formation-)
 
 1- Ouvrez votre terminal dans un nouveau dossier où vous voulez cloner le projet.
 
