@@ -16,7 +16,7 @@ VSCode + Node.js
 
 ##Installer npm
 
-Pour pouvoir lancer le projet, vous devez installer npm dans le fichier,voici comment faire :
+Pour pouvoir lancer le projet, vous devez installer npm dans le fichier, voici comment faire :
 Maintenant que vous avez cloner le fichier, faite un clic-droit sur le fichier vue-project et selectionner "Open in Integrated Terminal"
 Puis dans le nouveau terminal taper la commande "install npm"
 Taper ensuite "npm run dev"
