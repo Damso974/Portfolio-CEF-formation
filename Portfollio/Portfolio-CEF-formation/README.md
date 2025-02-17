@@ -26,7 +26,7 @@ Pour pouvoir lancer le projet, vous devez installer npm dans le fichier, voici c
 
 Maintenant que vous avez cloner le fichier, faite un clic-droit sur le fichier vue-project et selectionner "Open in Integrated Terminal"
 
-Puis dans le nouveau terminal taper la commande "instal npm"
+Puis dans le nouveau terminal taper la commande "npm instal "
 
 Taper ensuite "npm run dev"
 
